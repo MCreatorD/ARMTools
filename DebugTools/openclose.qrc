@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/seialimage">
+        <file>open.png</file>
+        <file>close.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>styleSheet.qss</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>Myico.ico</file>
+    </qresource>
+</RCC>
